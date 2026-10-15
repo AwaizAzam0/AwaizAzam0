@@ -22,15 +22,15 @@
 identity:
   name: "Awaiz Azam"
   role: "Student / Developer"
-  focus: ["Rust", "Python", "AI-assisted development", "Ethical Hacking", "Cybersecurity Research"]
+  focus: ["Rust", "Python", "Vide-Developer", "Cybersecurity Research"]
   vibe: "Build fast, break faster, secure it properly."
   base: "Pakistan 🇵🇰"
-  current_ecosystem: "Tecnevo"
+  current_ecosystem: "vibesudos"
 ```
 
 <br/>
 
-## `> stack.exe`
+## `> stack.sudo
 
 <div align="center">
 
@@ -38,43 +38,15 @@ identity:
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F0FF)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00F0FF)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=00F0FF)
-![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=00F0FF)
-<br/>
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F0FF)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F0FF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00F0FF)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00F0FF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00F0FF)
+
 
 </div>
 
 <br/>
 
-## `> domains.scan()`
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ Systems & AI
-- Low-level systems programming in Rust / C / C++ / Assembly
-- AI-assisted ("vibe coded") tooling and automation
-- Building custom OS, kernel, and desktop environment projects
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Security
-- Ethical hacking & penetration testing practice
-- Vulnerability research and exploit analysis
-- Cybersecurity tooling and hardened system design
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## `> stats.render()`
 
